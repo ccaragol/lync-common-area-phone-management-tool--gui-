@@ -33,7 +33,7 @@ v1.2 Update to add multi-select capabilities and pool-level filtering (thank you
  
 
 
-![Image](https://github.com/ccaragol/lync-common-area-phone-management-tool-(gui)/raw/master/2010editionsmall.png)
+![Image](https://github.com/ccaragol/lync-common-area-phone-management-tool--gui-/blob/master/2010Editionsmall.png)
 
 
         
